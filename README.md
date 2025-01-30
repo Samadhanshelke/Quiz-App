@@ -36,10 +36,10 @@ A web-based quiz application with gamification features, fetching quiz data from
    npm run dev
 3. **Open In The Browser**  
    ```sh
-  Navigate to http://localhost:5173
+   Navigate to http://localhost:5173
 
 **🎥 Demo (Screenshots & Video)**  
-![Home Screen](images/screenshot1.png)
-![Quiz in Progress](images/screenshot2.png)
-![Quiz Completed](images/screenshot3.png)
+ ![Home Screen](./src/assets//screenshot1.png)
+![Quiz in Progress](./src/assets//screenshot2.png)
+![Quiz Completed](./src/assets//screenshot3.png)
 
