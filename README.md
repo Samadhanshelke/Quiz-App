@@ -25,5 +25,21 @@ A web-based quiz application with gamification features, fetching quiz data from
 ## 🔧 Setup Instructions
 1. **Clone the repository**  
    ```sh
-   git clone <YOUR_REPO_LINK>
+   git clone https://github.com/Samadhanshelke/Quiz-App.git
    cd quiz-app
+2. **Install dependencies**  
+   ```sh
+   npm install
+
+2. **Run The Project**  
+   ```sh
+   npm run dev
+3. **Open In The Browser**  
+   ```sh
+  Navigate to http://localhost:5173
+
+**🎥 Demo (Screenshots & Video)**  
+![Home Screen](images/screenshot1.png)
+![Quiz in Progress](images/screenshot2.png)
+![Quiz Completed](images/screenshot3.png)
+
